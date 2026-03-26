@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+an+Aufgusser+♨️;Indie+Developer+using+AI+and+Cursor;Ex-System+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+an+Aufguss+Master+♨️;Indie+Developer+using+AI+and+Cursor;Ex-System+Engineer" alt="Typing SVG" />
 </div>
 
 私は**サウナの熱波師（アウフギーサー）**として現場に立ちながら、AIエディタ（Cursor等）を駆使してWebサービスの**個人開発**を行っています。
